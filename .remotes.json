@@ -32,6 +32,12 @@
   {
     "package": "s3",
     "url": "https://github.com/geomarker-io/s3",
+    "via": ["addNlcdData"],
+    "from": "addNlcdData"
+  },
+  {
+    "package": "s3",
+    "url": "https://github.com/geomarker-io/s3",
     "via": ["addPmData"],
     "from": "addPmData"
   },
