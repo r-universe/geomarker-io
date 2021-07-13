@@ -2,6 +2,12 @@
   {
     "package": "dht",
     "url": "https://github.com/degauss-org/dht",
+    "via": ["addNarrData"],
+    "from": "addNarrData"
+  },
+  {
+    "package": "dht",
+    "url": "https://github.com/degauss-org/dht",
     "via": ["addPmData"],
     "from": "addPmData"
   },
@@ -10,6 +16,12 @@
     "url": "https://github.com/obrl-soil/h3jsr",
     "via": ["addPmData"],
     "from": "addPmData"
+  },
+  {
+    "package": "s3",
+    "url": "https://github.com/geomarker-io/s3",
+    "via": ["addNarrData"],
+    "from": "addNarrData"
   },
   {
     "package": "s3",
