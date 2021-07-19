@@ -12,6 +12,12 @@
     "from": "addPmData"
   },
   {
+    "package": "dht",
+    "url": "https://github.com/degauss-org/dht",
+    "via": ["schwartzGeohashPM"],
+    "from": "schwartzGeohashPM"
+  },
+  {
     "package": "h3jsr",
     "url": "https://github.com/obrl-soil/h3jsr",
     "via": ["addPmData"],
@@ -28,5 +34,11 @@
     "url": "https://github.com/geomarker-io/s3",
     "via": ["addPmData"],
     "from": "addPmData"
+  },
+  {
+    "package": "s3",
+    "url": "https://github.com/geomarker-io/s3",
+    "via": ["schwartzGeohashPM"],
+    "from": "schwartzGeohashPM"
   }
 ]
