@@ -4,5 +4,14 @@
   },
   {
     "package": "addNarrData"
+  },
+  {
+    "package": "schwartzGeohashPM"
+  },
+  {
+    "package": "addNarrData"
+  },
+  {
+    "package": "OfflineGeocodeR"
   }
 ]
