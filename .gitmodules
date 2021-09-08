@@ -23,6 +23,21 @@
 	url = https://github.com/geomarker-io/OfflineGeocodeR
 	shallow = true
 	registered = true
+[submodule "s3"]
+	path = s3
+	url = https://github.com/geomarker-io/s3
+	shallow = true
+	registered = true
+[submodule "zctaDB"]
+	path = zctaDB
+	url = https://github.com/geomarker-io/zctaDB
+	shallow = true
+	registered = true
+[submodule "addNlcdData"]
+	path = addNlcdData
+	url = https://github.com/geomarker-io/addNlcdData
+	shallow = true
+	registered = true
 [submodule "dht"]
 	path = dht
 	url = https://github.com/degauss-org/dht
@@ -31,10 +46,5 @@
 [submodule "h3jsr"]
 	path = h3jsr
 	url = https://github.com/obrl-soil/h3jsr
-	shallow = true
-	registered = false
-[submodule "s3"]
-	path = s3
-	url = https://github.com/geomarker-io/s3
 	shallow = true
 	registered = false

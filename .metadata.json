@@ -13,5 +13,14 @@
   },
   {
     "package": "OfflineGeocodeR"
+  },
+  {
+    "package": "s3"
+  },
+  {
+    "package": "zctaDB"
+  },
+  {
+    "package": "addNlcdData"
   }
 ]
