@@ -3,6 +3,21 @@
 	url = https://github.com/geomarker-io/universe
 	shallow = true
 	branch = HEAD
+[submodule "addPmData"]
+	path = addPmData
+	url = https://github.com/geomarker-io/addPmData
+	shallow = true
+	registered = true
+[submodule "addNarrData"]
+	path = addNarrData
+	url = https://github.com/geomarker-io/addNarrData
+	shallow = true
+	registered = true
+[submodule "schwartzGeohashPM"]
+	path = schwartzGeohashPM
+	url = https://github.com/geomarker-io/schwartzGeohashPM
+	shallow = true
+	registered = true
 [submodule "OfflineGeocodeR"]
 	path = OfflineGeocodeR
 	url = https://github.com/geomarker-io/OfflineGeocodeR
@@ -16,6 +31,11 @@
 [submodule "zctaDB"]
 	path = zctaDB
 	url = https://github.com/geomarker-io/zctaDB
+	shallow = true
+	registered = true
+[submodule "addNlcdData"]
+	path = addNlcdData
+	url = https://github.com/geomarker-io/addNlcdData
 	shallow = true
 	registered = true
 [submodule "airPb"]
