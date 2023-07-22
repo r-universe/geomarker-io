@@ -1,75 +1,48 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/geomarker-io/universe
-	shallow = true
 	branch = HEAD
 [submodule "addPmData"]
 	path = addPmData
 	url = https://github.com/geomarker-io/addPmData
-	shallow = true
-	registered = true
 [submodule "addNarrData"]
 	path = addNarrData
 	url = https://github.com/geomarker-io/addNarrData
-	shallow = true
-	registered = true
 [submodule "schwartzGeohashPM"]
 	path = schwartzGeohashPM
 	url = https://github.com/geomarker-io/schwartzGeohashPM
-	shallow = true
-	registered = true
 [submodule "OfflineGeocodeR"]
 	path = OfflineGeocodeR
 	url = https://github.com/geomarker-io/OfflineGeocodeR
-	shallow = true
-	registered = true
 [submodule "s3"]
 	path = s3
 	url = https://github.com/geomarker-io/s3
-	shallow = true
-	registered = true
 [submodule "zctaDB"]
 	path = zctaDB
 	url = https://github.com/geomarker-io/zctaDB
-	shallow = true
-	registered = true
 [submodule "addNlcdData"]
 	path = addNlcdData
 	url = https://github.com/geomarker-io/addNlcdData
-	shallow = true
-	registered = true
 [submodule "airPb"]
 	path = airPb
 	url = https://github.com/geomarker-io/airPb
-	shallow = true
-	registered = true
 [submodule "ecat"]
 	path = ecat
 	url = https://github.com/geomarker-io/ecat
-	shallow = true
-	registered = true
 [submodule "aiR"]
 	path = aiR
 	url = https://github.com/geomarker-io/aiR
-	shallow = true
-	registered = true
 [submodule "tidydlnm"]
 	path = tidydlnm
 	url = https://github.com/geomarker-io/tidydlnm
-	shallow = true
-	registered = true
 [submodule "hamilton"]
 	path = hamilton
 	url = https://github.com/geomarker-io/hamilton
-	shallow = true
-	registered = true
 [submodule "dht"]
 	path = dht
 	url = https://github.com/degauss-org/dht
-	shallow = true
 	registered = false
 [submodule "h3jsr"]
 	path = h3jsr
 	url = https://github.com/obrl-soil/h3jsr
-	shallow = true
 	registered = false
