@@ -8,6 +8,12 @@
   {
     "package": "codec",
     "url": "https://github.com/geomarker-io/codec",
+    "via": ["cincy"],
+    "from": "cincy"
+  },
+  {
+    "package": "codec",
+    "url": "https://github.com/geomarker-io/codec",
     "via": ["parcel", "cincy"],
     "from": "parcel"
   },
@@ -28,6 +34,12 @@
     "url": "https://github.com/degauss-org/dht",
     "via": ["schwartzGeohashPM"],
     "from": "schwartzGeohashPM"
+  },
+  {
+    "package": "ggsflabel",
+    "url": "https://github.com/yutannihilation/ggsflabel",
+    "via": ["cincy"],
+    "from": "cincy"
   },
   {
     "package": "ggsflabel",
