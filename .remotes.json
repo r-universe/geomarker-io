@@ -1,5 +1,17 @@
 [
   {
+    "package": "cincy",
+    "url": "https://github.com/geomarker-io/cincy",
+    "via": ["parcel"],
+    "from": "parcel"
+  },
+  {
+    "package": "codec",
+    "url": "https://github.com/geomarker-io/codec",
+    "via": ["parcel", "cincy"],
+    "from": "parcel"
+  },
+  {
     "package": "dht",
     "url": "https://github.com/degauss-org/dht",
     "via": ["addNarrData"],
@@ -16,6 +28,12 @@
     "url": "https://github.com/degauss-org/dht",
     "via": ["schwartzGeohashPM"],
     "from": "schwartzGeohashPM"
+  },
+  {
+    "package": "ggsflabel",
+    "url": "https://github.com/yutannihilation/ggsflabel",
+    "via": ["parcel", "cincy"],
+    "from": "parcel"
   },
   {
     "package": "h3jsr",
