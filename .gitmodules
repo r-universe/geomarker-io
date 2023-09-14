@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/geomarker-io/universe
+	url = https://github.com/geomarker-io/geomarker-io.r-universe.dev
 	branch = HEAD
 [submodule "OfflineGeocodeR"]
 	path = OfflineGeocodeR
