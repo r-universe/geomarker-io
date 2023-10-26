@@ -14,7 +14,7 @@
   {
     "package": "codec",
     "url": "https://github.com/geomarker-io/codec",
-    "via": ["parcel", "cincy"],
+    "via": ["parcel"],
     "from": "parcel"
   },
   {
