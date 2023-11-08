@@ -12,12 +12,6 @@
     "from": "parcel"
   },
   {
-    "package": "codec",
-    "url": "https://github.com/geomarker-io/codec",
-    "via": ["parcel"],
-    "from": "parcel"
-  },
-  {
     "package": "dht",
     "url": "https://github.com/degauss-org/dht",
     "via": ["addNarrData"],
@@ -34,6 +28,12 @@
     "url": "https://github.com/degauss-org/dht",
     "via": ["schwartzGeohashPM"],
     "from": "schwartzGeohashPM"
+  },
+  {
+    "package": "fr",
+    "url": "https://github.com/cole-brokamp/fr",
+    "via": ["parcel"],
+    "from": "parcel"
   },
   {
     "package": "ggsflabel",

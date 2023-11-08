@@ -33,6 +33,10 @@
 [submodule "ecat"]
 	path = ecat
 	url = https://github.com/geomarker-io/ecat
+[submodule "fr"]
+	path = fr
+	url = https://github.com/cole-brokamp/fr
+	registered = false
 [submodule "ggsflabel"]
 	path = ggsflabel
 	url = https://github.com/yutannihilation/ggsflabel
