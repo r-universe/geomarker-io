@@ -32,12 +32,6 @@
   {
     "package": "fr",
     "url": "https://github.com/cole-brokamp/fr",
-    "via": ["codec"],
-    "from": "codec"
-  },
-  {
-    "package": "fr",
-    "url": "https://github.com/cole-brokamp/fr",
     "via": ["parcel"],
     "from": "parcel"
   },
