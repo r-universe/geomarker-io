@@ -30,6 +30,12 @@
     "from": "schwartzGeohashPM"
   },
   {
+    "package": "dpkg",
+    "url": "https://github.com/cole-brokamp/dpkg",
+    "via": ["codec"],
+    "from": "codec"
+  },
+  {
     "package": "fr",
     "url": "https://github.com/cole-brokamp/fr",
     "via": ["parcel"],
