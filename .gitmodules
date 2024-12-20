@@ -2,24 +2,12 @@
 	path = .registry
 	url = https://github.com/geomarker-io/geomarker-io.r-universe.dev
 	branch = HEAD
-[submodule "OfflineGeocodeR"]
-	path = OfflineGeocodeR
-	url = https://github.com/geomarker-io/OfflineGeocodeR
-[submodule "addNarrData"]
-	path = addNarrData
-	url = https://github.com/geomarker-io/addNarrData
-[submodule "addNlcdData"]
-	path = addNlcdData
-	url = https://github.com/geomarker-io/addNlcdData
-[submodule "addPmData"]
-	path = addPmData
-	url = https://github.com/geomarker-io/addPmData
-[submodule "aiR"]
-	path = aiR
-	url = https://github.com/geomarker-io/aiR
-[submodule "airPb"]
-	path = airPb
-	url = https://github.com/geomarker-io/airPb
+[submodule "addr"]
+	path = addr
+	url = https://github.com/geomarker-io/addr
+[submodule "appc"]
+	path = appc
+	url = https://github.com/geomarker-io/appc
 [submodule "cincy"]
 	path = cincy
 	url = https://github.com/geomarker-io/cincy
@@ -34,9 +22,6 @@
 	path = dpkg
 	url = https://github.com/cole-brokamp/dpkg
 	registered = false
-[submodule "ecat"]
-	path = ecat
-	url = https://github.com/geomarker-io/ecat
 [submodule "fr"]
 	path = fr
 	url = https://github.com/cole-brokamp/fr
@@ -49,21 +34,7 @@
 	path = h3jsr
 	url = https://github.com/obrl-soil/h3jsr
 	registered = false
-[submodule "hamilton"]
-	path = hamilton
-	url = https://github.com/geomarker-io/hamilton
-[submodule "parcel"]
-	path = parcel
-	url = https://github.com/geomarker-io/parcel
 [submodule "s3"]
 	path = s3
 	url = https://github.com/geomarker-io/s3
-[submodule "schwartzGeohashPM"]
-	path = schwartzGeohashPM
-	url = https://github.com/geomarker-io/schwartzGeohashPM
-[submodule "tidydlnm"]
-	path = tidydlnm
-	url = https://github.com/geomarker-io/tidydlnm
-[submodule "zctaDB"]
-	path = zctaDB
-	url = https://github.com/geomarker-io/zctaDB
+	registered = false
