@@ -6,40 +6,10 @@
     "from": "codec"
   },
   {
-    "package": "cincy",
-    "url": "https://github.com/geomarker-io/cincy",
-    "via": ["parcel"],
-    "from": "parcel"
-  },
-  {
-    "package": "dht",
-    "url": "https://github.com/degauss-org/dht",
-    "via": ["addNarrData"],
-    "from": "addNarrData"
-  },
-  {
-    "package": "dht",
-    "url": "https://github.com/degauss-org/dht",
-    "via": ["addPmData"],
-    "from": "addPmData"
-  },
-  {
-    "package": "dht",
-    "url": "https://github.com/degauss-org/dht",
-    "via": ["schwartzGeohashPM"],
-    "from": "schwartzGeohashPM"
-  },
-  {
     "package": "dpkg",
     "url": "https://github.com/cole-brokamp/dpkg",
     "via": ["codec"],
     "from": "codec"
-  },
-  {
-    "package": "fr",
-    "url": "https://github.com/cole-brokamp/fr",
-    "via": ["parcel"],
-    "from": "parcel"
   },
   {
     "package": "ggsflabel",
@@ -52,41 +22,5 @@
     "url": "https://github.com/yutannihilation/ggsflabel",
     "via": ["codec", "cincy"],
     "from": "codec"
-  },
-  {
-    "package": "ggsflabel",
-    "url": "https://github.com/yutannihilation/ggsflabel",
-    "via": ["parcel", "cincy"],
-    "from": "parcel"
-  },
-  {
-    "package": "h3jsr",
-    "url": "https://github.com/obrl-soil/h3jsr",
-    "via": ["addPmData"],
-    "from": "addPmData"
-  },
-  {
-    "package": "s3",
-    "url": "https://github.com/geomarker-io/s3",
-    "via": ["addNarrData"],
-    "from": "addNarrData"
-  },
-  {
-    "package": "s3",
-    "url": "https://github.com/geomarker-io/s3",
-    "via": ["addNlcdData"],
-    "from": "addNlcdData"
-  },
-  {
-    "package": "s3",
-    "url": "https://github.com/geomarker-io/s3",
-    "via": ["addPmData"],
-    "from": "addPmData"
-  },
-  {
-    "package": "s3",
-    "url": "https://github.com/geomarker-io/s3",
-    "via": ["schwartzGeohashPM"],
-    "from": "schwartzGeohashPM"
   }
 ]

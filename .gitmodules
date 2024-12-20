@@ -14,27 +14,11 @@
 [submodule "codec"]
 	path = codec
 	url = https://github.com/geomarker-io/codec
-[submodule "dht"]
-	path = dht
-	url = https://github.com/degauss-org/dht
-	registered = false
 [submodule "dpkg"]
 	path = dpkg
 	url = https://github.com/cole-brokamp/dpkg
 	registered = false
-[submodule "fr"]
-	path = fr
-	url = https://github.com/cole-brokamp/fr
-	registered = false
 [submodule "ggsflabel"]
 	path = ggsflabel
 	url = https://github.com/yutannihilation/ggsflabel
-	registered = false
-[submodule "h3jsr"]
-	path = h3jsr
-	url = https://github.com/obrl-soil/h3jsr
-	registered = false
-[submodule "s3"]
-	path = s3
-	url = https://github.com/geomarker-io/s3
 	registered = false
