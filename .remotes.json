@@ -1,20 +1,8 @@
 [
   {
-    "package": "cincy",
-    "url": "https://github.com/geomarker-io/cincy",
-    "via": ["codec"],
-    "from": "codec"
-  },
-  {
     "package": "ggsflabel",
     "url": "https://github.com/yutannihilation/ggsflabel",
     "via": ["cincy"],
     "from": "cincy"
-  },
-  {
-    "package": "ggsflabel",
-    "url": "https://github.com/yutannihilation/ggsflabel",
-    "via": ["codec", "cincy"],
-    "from": "codec"
   }
 ]
