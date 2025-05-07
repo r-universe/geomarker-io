@@ -9,7 +9,7 @@
 [submodule "appc"]
 	path = appc
 	url = https://github.com/geomarker-io/appc
-	branch = v0.5.1
+	branch = rf_pm_v0
 [submodule "cincy"]
 	path = cincy
 	url = https://github.com/geomarker-io/cincy
