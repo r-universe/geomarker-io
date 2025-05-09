@@ -17,7 +17,7 @@
 [submodule "codec"]
 	path = codec
 	url = https://github.com/geomarker-io/codec
-	branch = green-v0.1.0
+	branch = v2.5.0
 [submodule "ggsflabel"]
 	path = ggsflabel
 	url = https://github.com/yutannihilation/ggsflabel
