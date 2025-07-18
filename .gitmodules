@@ -9,7 +9,7 @@
 [submodule "appc"]
 	path = appc
 	url = https://github.com/geomarker-io/appc
-	branch = v0.6.1
+	branch = merra-2025-07-19
 [submodule "cincy"]
 	path = cincy
 	url = https://github.com/geomarker-io/cincy
