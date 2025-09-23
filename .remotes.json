@@ -1,5 +1,11 @@
 [
   {
+    "package": "codec",
+    "url": "https://github.com/geomarker-io/codec",
+    "via": ["addr"],
+    "from": "addr"
+  },
+  {
     "package": "ggsflabel",
     "url": "https://github.com/yutannihilation/ggsflabel",
     "via": ["cincy"],
