@@ -18,7 +18,3 @@
 	path = codec
 	url = https://github.com/geomarker-io/codec
 	branch = v3.0.0
-[submodule "ggsflabel"]
-	path = ggsflabel
-	url = https://github.com/yutannihilation/ggsflabel
-	registered = false
