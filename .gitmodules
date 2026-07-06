@@ -5,7 +5,7 @@
 [submodule "addr"]
 	path = addr
 	url = https://github.com/geomarker-io/addr
-	branch = v1.1.0
+	branch = v1.2.0
 [submodule "appc"]
 	path = appc
 	url = https://github.com/geomarker-io/appc
