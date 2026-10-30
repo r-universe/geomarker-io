@@ -17,4 +17,4 @@
 [submodule "geomarker"]
 	path = geomarker
 	url = https://github.com/geomarker-io/geomarker
-	branch = v0.1.1
+	branch = v0.2.0
